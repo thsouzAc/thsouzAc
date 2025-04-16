@@ -26,12 +26,13 @@
 </div>
 
 ### 📱 Contato : 
-### 📱 Connect with me
 
 <div align="center">
   <a href="https://www.instagram.com/thsouzza_" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
+
+  
   <a href="mailto:thiagosouzabrito8@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
