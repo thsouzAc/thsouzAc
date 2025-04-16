@@ -4,10 +4,8 @@
 ### 📈 Estatísticas :
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thsouzAc&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&icon_color=00FFFF&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thsouzAc&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&icon_color=00FFFF&bg_color=000000&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsouzAc&layout=compact&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000" />
-  
-  
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas : 
@@ -31,8 +29,6 @@
   <a href="https://www.instagram.com/thsouzza_" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-
-  
   <a href="mailto:thiagosouzabrito8@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
