@@ -2,7 +2,7 @@
 
 ---
 
-- Sou estudante de Ciência da Computação na UFCA, atualmente me aprofundando no estudo de desenvolvimento full stack. Estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e evoluir constantemente. 🚀
+Estudante de Ciência da Computação na UFCA, atualmente me aprofundando no estudo de desenvolvimento full stack. Estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e evoluir constantemente. 🚀
 
 
 ---
