@@ -8,8 +8,9 @@ Estudante de Ciência da Computação na UFCA, atualmente me aprofundando no est
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thsouzAc&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&icon_color=00FFFF&bg_color=000000&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsouzAc&layout=compact&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thsouzAc&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&icon_color=00FFFF&bg_color=000000&rank_icon=github&cache_seconds=0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thsouzAc&layout=compact&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&cache_seconds=0" />
+
 </div>
 
 ---
