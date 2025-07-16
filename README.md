@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&letterSpacing=&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Em+constante+evolu%C3%A7%C3%A3o%2C+sou+o+Thiago+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+Em Constante evolução, sou o Thiago ! 
 
 ---
 
