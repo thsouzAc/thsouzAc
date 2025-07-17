@@ -1,4 +1,3 @@
-Em Constante evolução, sou o Thiago ! 
 
 ---
 
