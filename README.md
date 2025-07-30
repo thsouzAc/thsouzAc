@@ -3,7 +3,7 @@ Thiago de Souza ✌️
 
 ---
 
-Estudante de Ciência da Computação na UFCA, atualmente me aprofundando no estudo e desenvolvendo soluções FullStack, onde estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e evoluir constantemente. 🚀
+Estudante de Ciência da Computação na UFCA, atualmente me aprofundando no estudo e desenvolvimento de soluções FullStack, onde estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e evoluir constantemente. 🚀
 
 
 ---
