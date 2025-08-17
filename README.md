@@ -20,6 +20,8 @@
 <div align="center"> 
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue" /> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=blue" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue" /> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue" /> <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=blue" /> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=blue" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=blue" /> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=bluee" />
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=blue" />
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=swagger&logoColor=blue" />
+
 </div>
 
 
