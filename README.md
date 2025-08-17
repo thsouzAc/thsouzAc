@@ -1,9 +1,10 @@
 ---
-Thiago de Souza ✌️
+
+<h3 align="center">Olá, eu sou o Thiago! ✌️</h3>
 
 ---
 
-Estudante de Ciência da Computação na UFCA, atualmente me aprofundando no estudo de desenvolvimento FullStack, onde estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e evoluir constantemente. 🚀
+💻 Estudante de Ciência da Computação na UFCA, com foco em desenvolvimento FullStack. Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. 🚀
 
 
 ---
@@ -16,18 +17,11 @@ Estudante de Ciência da Computação na UFCA, atualmente me aprofundando no est
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logisim-000000?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnuassembly&logoColor=white" />
+<div align="center"> 
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
 
 ---
 
@@ -40,5 +34,4 @@ Estudante de Ciência da Computação na UFCA, atualmente me aprofundando no est
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
 
