@@ -35,5 +35,9 @@
   <a href="mailto:thiagosouzabrito8@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail"/>
   </a>
+  <br>
+  <a href="https://www.linkedin.com/in/thsouzzac/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
+  </a>
 </div>
-
+              
