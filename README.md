@@ -6,14 +6,11 @@
 
 💻 Estudante de Ciência da Computação na UFCA, com foco em desenvolvimento FullStack. Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. 🚀
 
-
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thsouzAc&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&icon_color=00FFFF&bg_color=000000" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thsouzAc&layout=compact&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+  <img height="180em" src="./profile/top-langs.svg" />
 </div>
-
 
 ---
 
@@ -24,10 +21,9 @@
 
 </div>
 
-
 ---
 
-<div align="center">
+<div align="center"> 
   <a href="https://www.instagram.com/thsouzza_" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=blue" alt="Instagram"/>
   </a>
@@ -40,4 +36,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
   </a>
 </div>
-              
